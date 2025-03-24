@@ -29,7 +29,6 @@ def main():
 
     # Sidebar for inputs
     with st.sidebar:
-        st.header("Input Parameters")
         st.write("### Enter Lectures Attended for Each Subject:")
         attendance = {}
         for subject, total in subjects.items():

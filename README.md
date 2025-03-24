@@ -2,6 +2,8 @@
 
 The Attendance Management System is a Streamlit-based web application that helps students track and manage their attendance across different subjects. It allows users to calculate their attendance percentage and determine the number of lectures they can bunk while maintaining the required threshold.
 
+### Demo link : https://attedence-management-system-zkm6mdtag6xwkv8cuap5yy.streamlit.app/
+
 ## Features
 - 📊 **Overall Attendance Calculation**: Computes total attended lectures, bunked lectures, and attendance percentage.
 - 📚 **Individual Subject Attendance**: Displays attendance stats for each subject.
